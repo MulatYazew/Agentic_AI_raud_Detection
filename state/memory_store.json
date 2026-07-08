@@ -1,0 +1,74 @@
+{
+  "levels": {
+    "Brave_New_World::train": {
+      "flag_rate": 0.21839080459770116,
+      "fusion_weights": {
+        "behavior": 0.44750875369411813,
+        "comm": 0.205184018526812,
+        "economic": 0.14933437425499335,
+        "geo": 0.10040830323796043,
+        "network": 0.08043731362195385,
+        "reasoning": 0.01712723666416228
+      },
+      "level": "Brave_New_World",
+      "n_transactions": 522,
+      "run_at": "2026-07-08T12:24:06.402654+00:00",
+      "signal_std": {
+        "behavior": 0.142160920004907,
+        "comm": 0.05807680983774943,
+        "economic": 0.030418549182187712,
+        "geo": 0.035906766566525986,
+        "network": 0.01308023755947246
+      },
+      "split": "train",
+      "threshold_quantile": 0.7816091954022988
+    },
+    "Deus_Ex::train": {
+      "flag_rate": 0.15270203272186417,
+      "fusion_weights": {
+        "behavior": 0.42581074636549865,
+        "comm": 0.20339122659887654,
+        "economic": 0.16982914746297512,
+        "geo": 0.09432857843349726,
+        "network": 0.09406672589156011,
+        "reasoning": 0.012573575247592375
+      },
+      "level": "Deus_Ex",
+      "n_transactions": 2017,
+      "run_at": "2026-07-08T12:24:08.813006+00:00",
+      "signal_std": {
+        "behavior": 0.10007582058744707,
+        "comm": 0.04732758874087264,
+        "economic": 0.03906857980718187,
+        "geo": 0.02793815786049846,
+        "network": 0.023388272415101014
+      },
+      "split": "train",
+      "threshold_quantile": 0.8472979672781358
+    },
+    "The_Truman_Show::train": {
+      "flag_rate": 0.075,
+      "fusion_weights": {
+        "behavior": 0.43842810943316257,
+        "comm": 0.2100691960331421,
+        "economic": 0.19646510450871252,
+        "geo": 0.05803417292297148,
+        "network": 0.08838295198226674,
+        "reasoning": 0.008620465119744675
+      },
+      "level": "The_Truman_Show",
+      "n_transactions": 80,
+      "run_at": "2026-07-08T12:28:09.052472+00:00",
+      "signal_std": {
+        "behavior": 0.08427039812413371,
+        "comm": 0.0415210789840534,
+        "economic": 0.0471139509593496,
+        "geo": 0.0,
+        "network": 0.016665364532466725
+      },
+      "split": "train",
+      "threshold_quantile": 0.925
+    }
+  },
+  "lexicon": []
+}

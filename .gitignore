@@ -209,3 +209,8 @@ __marimo__/
 
 # Data Folders
 dataset/
+
+# Reply Mirror run artifacts (regenerable; keep state/memory_store.json tracked though --
+# that's the cross-level learned state, not a run artifact)
+outputs/
+state/audio_transcript_cache.json
